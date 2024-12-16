@@ -37,6 +37,11 @@
 
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "grf95.h.filess.io",
+        "DB_PORT": "3306",
+        "DB_DATABASE": "dbarsa2024_signbetter",
+        "DB_USERNAME": "dbarsa2024_signbetter"
     }
 }
