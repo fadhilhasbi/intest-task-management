@@ -25,7 +25,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://intest-task-management-fadhilhasbis-projects.vercel.app/",
+        "APP_URL": "https://intest-task-management-lbg9n8eku-fadhilhasbis-projects.vercel.app",
         "APP_KEY": "base64:Px3dUXlua9liu16+69WQlxpyTULtItvZXes3lv8qR14=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
